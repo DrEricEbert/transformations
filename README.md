@@ -1,3 +1,5 @@
+# See https://pypi.org/project/transformations/ for Installation of current Version
+
 # transformations
 
 Here are some methods for implementing [homogeneous transformations][]

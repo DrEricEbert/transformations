@@ -1,3 +1,4 @@
+# See http://matthew-brett.github.io/transforms3d/ it includes this code.
 # See https://pypi.org/project/transformations/ for Installation of current Version
 
 # transformations
